@@ -1,2 +1,2 @@
 # AWS
-Projects with AWS Native Services
+Mini Projects with AWS Native Services
